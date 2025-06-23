@@ -1,4 +1,4 @@
-## Hi there 👋
+# Summary
 Data Science and Big Data Analytics expert with over 7 years specializing in scalable data solutions using Python, PySpark, and Machine Learning. Proven track record of leading high-impact projects that optimize data-driven decision-making processes. 
 
 # Skills
