@@ -3,13 +3,18 @@ Data Science and Big Data Analytics expert with over 7 years specializing in sca
 
 # Skills
 •	AWS Services 
+
 •	Python and PySpark
+
 •	Data Analysis with SQL and Hive
+
 •	Data Science Platforms (Databricks, Dataiku DSS)	
+
 •	Machine Learning and Deep Learning AI
 
 # Certifications
 •	AWS Certified Machine Learning – Specialty
+
 •	AWS Certified Solutions Architect – Associate
 •	AWS Certified Cloud Practitioner
 •	HashiCorp Certified: Terraform Associate (003)
