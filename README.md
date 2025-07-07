@@ -17,6 +17,8 @@ Data Science and Big Data Analytics expert with over 7 years specializing in sca
 
 •	AWS Certified Solutions Architect – Associate
 
+•	AWS Certified SysOps Administrator - Associate
+
 •	AWS Certified Cloud Practitioner
 
 •	HashiCorp Certified: Terraform Associate (003)
