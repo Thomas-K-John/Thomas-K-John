@@ -69,7 +69,8 @@ Actively strengthening cloud capabilities and showcasing real-world AWS ML proje
 
 ---
 
-## 🔍 Currently I am strengthening cloud capabilities and showcasing real-world AWS ML projects through a cloud-hosted portfolio. Open to remote global opportunities as an AI/ML Cloud Engineer, with a focus on Generative AI, ML engineering, and cloud automation.
+## 🔍 
+Currently I am strengthening cloud capabilities and showcasing real-world AWS ML projects through a cloud-hosted portfolio. Open to remote global opportunities as an AI/ML Cloud Engineer, with a focus on Generative AI, ML engineering, and cloud automation.
 
 ---
 
