@@ -12,10 +12,14 @@ Experienced Machine Learning Engineer with 7+ years of delivering AI/ML solution
 
 Proven ability to drive business impact through:
 
-Achieved a 12% profit increase through AI-driven traffic blacklisting
-Delivered cost and performance gains by migrating workloads from SAS to Apache Spark
-Implemented computer vision-based defect detection with 95% accuracy
-Reduced inventory redundancy by 15% using AI-driven MRO optimization
+•  Achieved a 12% profit increase through AI-driven traffic blacklisting
+
+•  Delivered cost and performance gains by migrating workloads from SAS to Apache Spark
+
+•  Implemented computer vision-based defect detection with 95% accuracy
+
+•  Reduced inventory redundancy by 15% using AI-driven MRO optimization
+
 Proficient in designing and deploying ML workloads using a broad range of AWS services, including compute, storage, networking, and ML tools—combined with infrastructure-as-code automation using Terraform.
 
 Actively strengthening cloud capabilities and showcasing real-world AWS ML projects through a cloud-hosted portfolio. Open to remote global opportunities as an AI/ML Cloud Engineer, with a focus on Generative AI, ML engineering, and cloud automation.
