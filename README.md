@@ -26,7 +26,7 @@ Actively strengthening cloud capabilities and showcasing real-world AWS ML proje
 
 •	Specialized Cloud Platform : AWS
 
-•       Data Science Platforms     : Databricks, Dataiku DSS 
+• Data Science Platforms     : Databricks, Dataiku DSS 
 
 •	Python and PySpark
 
@@ -43,7 +43,7 @@ Actively strengthening cloud capabilities and showcasing real-world AWS ML proje
 🔹 **[Generative-AI-Projects](https://github.com/Thomas-K-John/Generative-AI-Projects)**  
   Exploring LLMs and prompt engineering.
 
-🔹 **[Sales Forecasting](https://github.com/Thomas-K-John/Sales-Forecasting)**  
+🔹 **[Sales Forecasting]([https://github.com/Thomas-K-John/Sales-Forecasting](https://github.com/Thomas-K-John/SalesForecasting))**  
   Retail sales prediction using statistical and ML techniques.
 
 🔹 **[YOLO Object Detection](https://github.com/Thomas-K-John/yolo-object-detection)**  
