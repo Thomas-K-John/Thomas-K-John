@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Thomas K John
 
 **Data & AI Solutions Specialist**  
-💼 15+ years of experience in Data Science, Big Data & AI  
+💼 7+ years of experience in Data Science, Big Data & AI  
 ☁️ AWS Certified | ML Specialist | Solutions Architect
 
 ---
