@@ -42,9 +42,9 @@ Actively strengthening cloud capabilities and showcasing real-world AWS ML proje
 
 ## 📘 Featured Projects
 
-🔹 **[Cloud Resume Challenge - AWS Serverless Portfolio Project Backend with Terraform](https://github.com/Thomas-K-John/thomaskjohn-infra)**
+🔹 **[Cloud Resume Challenge - AWS Serverless Portfolio Project (Backend with Terraform)](https://github.com/Thomas-K-John/thomaskjohn-infra)**
 
-🔹 **[Cloud Resume Challenge - AWS Serverless Portfolio Project Frontend](https://github.com/Thomas-K-John/thomaskjohn-webapp)**
+🔹 **[Cloud Resume Challenge - AWS Serverless Portfolio Project (Frontend)](https://github.com/Thomas-K-John/thomaskjohn-webapp)**
 
 🔹 **[Generative-AI-Projects](https://github.com/Thomas-K-John/Generative-AI-Projects)**  
   Exploring LLMs and prompt engineering.
