@@ -46,7 +46,7 @@ Actively strengthening cloud capabilities and showcasing real-world AWS ML proje
 🔹 **[Sales Forecasting](https://github.com/Thomas-K-John/Sales-Forecasting)**  
   Retail sales prediction using statistical and ML techniques.
 
-🔹 **[YOLO Object Detection](https://github.com/Thomas-K-John/yolo-object-detection)**  
+🔹 **[YOLO Object Detection](https://github.com/Thomas-K-John/yolo_object_detection)**  
   Deep learning-based real-time object detection using YOLO.
 
 🔹 **[Seismic Bumps Forecasting](https://github.com/Thomas-K-John/Seismic-Bumps-Forecasting)**  
